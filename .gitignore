@@ -1,0 +1,23 @@
+# IntelliJ
+.idea/
+*.iws
+
+# Java
+*.class
+*.log
+hs_err_pid*
+
+# Maven
+target/
+
+# Package files
+*.jar
+*.war
+*.ear
+
+# Project-specific
+bots.txt
+**/bll/bot/disabled/
+
+# OS
+.DS_Store
